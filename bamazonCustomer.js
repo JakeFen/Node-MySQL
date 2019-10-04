@@ -23,8 +23,7 @@ function listProducts() {
         ", Product: " +
         res[i].product_name +
         ", Price: " +
-        res[i].price}
-            `);
+        res[i].price}`);
     }
     inquirerSearch();
   });
