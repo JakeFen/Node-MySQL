@@ -68,8 +68,7 @@ function inquirerSearch() {
 
 function updateProducts(newQuantity, itemId) {
   connection.query(
-    "UPDATE products SET ? WHERE ?",
-    [{ stock_quantity: newQuantity }, { item_id: itemId }],
+    "UPDATE products SET ? WHERE ?",[{ stock_quantity: newQuantity }, { item_id: itemId }],
     function(err, res) {
       if (err) throw err;
     }
