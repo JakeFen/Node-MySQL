@@ -10,4 +10,4 @@
 
 [Customer Video](https://drive.google.com/file/d/1HEE6CpZcgIRGIUy8vfWEsL4zKnUt6guQ/view)
 
-Manager Video("https://drive.google.com/file/d/1QnPtS-zguSQ4URaP2XnGPg3oGYyYdULr/view")
+[Manager Video](https://drive.google.com/file/d/1QnPtS-zguSQ4URaP2XnGPg3oGYyYdULr/view)
